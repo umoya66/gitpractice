@@ -1,9 +1,15 @@
  added the ubiquitious foo.txt
 
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
  asdad
  asdasdas
 
  asdadasd
  asd asd asd
 
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 added more stuff
