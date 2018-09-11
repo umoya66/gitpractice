@@ -3,3 +3,4 @@ We're on the master branch now
 
 added tag: tagA
 added tag: tagB
+added tag: tagC
