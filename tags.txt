@@ -2,3 +2,4 @@ this is a test of tags
 We're on the master branch now
 
 added tag: tagA
+added tag: tagB
