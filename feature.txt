@@ -1,6 +1,8 @@
  this is a file added in the 'feature' branch
 
  added more stuff in 'feature'
+ 
+ added even more stuff in 'feature'
 
  added stuff to feature in the 'master' branch
 
