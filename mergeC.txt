@@ -1,6 +1,7 @@
 This is merge C
-
 This is stuff added in the 'master' branch
 and some more
-
+ and now we add stuff insode the 'feature' branch
+ more crap in 'feature'
 even more stuff added in the 'master' branch
+ again more feature crap
