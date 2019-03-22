@@ -1,0 +1,2 @@
+This is merge B in 'master'
+
