@@ -1,0 +1,6 @@
+This is merge C
+
+This is stuff added in the 'master' branch
+and some more
+
+even more stuff added in the 'master' branch
