@@ -1,2 +1,5 @@
 This is merge B in 'master'
 
+
+This is merge B added in the 'feature' branch
+
