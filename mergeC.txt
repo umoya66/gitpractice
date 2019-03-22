@@ -1,0 +1,7 @@
+ This is merge C
+
+ and now we add stuff insode the 'feature' branch
+ more crap in 'feature'
+
+
+ again more feature crap
