@@ -1,3 +1,6 @@
 line added in the "FEATURE BRANCH"
 this is a line added from the 'master branch
 this is a merged file
+
+this is a line added in the 'feature' branch
+
